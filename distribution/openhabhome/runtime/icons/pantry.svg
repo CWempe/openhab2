@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<path fill="#315C99" d="M7,20.5c-0.2,0-0.38-0.12-0.46-0.31s-0.03-0.4,0.11-0.54l4-4c0.09-0.09,0.22-0.15,0.35-0.15h26
+		c0.2,0,0.38,0.12,0.46,0.31s0.03,0.4-0.11,0.54l-4,4c-0.09,0.09-0.22,0.15-0.35,0.15H7z"/>
+	<path fill="#172982" d="M37,16l-4,4H7l4-4H37 M37,15H11c-0.27,0-0.52,0.11-0.71,0.29l-4,4c-0.29,0.29-0.37,0.72-0.22,1.09
+		C6.23,20.76,6.6,21,7,21h26c0.27,0,0.52-0.11,0.71-0.29l4-4c0.29-0.29,0.37-0.72,0.22-1.09C37.77,15.24,37.4,15,37,15L37,15z"/>
+</g>
+<g>
+	<path fill="#FFD773" d="M27,7.5c-0.2,0-0.38-0.12-0.46-0.31s-0.03-0.4,0.11-0.54l4-4C30.74,2.55,30.87,2.5,31,2.5h26
+		c0.2,0,0.38,0.12,0.46,0.31s0.03,0.4-0.11,0.54l-4,4C53.26,7.45,53.13,7.5,53,7.5H27z"/>
+	<path fill="#E5B12E" d="M57,3l-4,4H27l4-4H57 M57,2H31c-0.27,0-0.52,0.11-0.71,0.29l-4,4c-0.29,0.29-0.37,0.72-0.22,1.09
+		C26.23,7.76,26.6,8,27,8h26c0.27,0,0.52-0.11,0.71-0.29l4-4c0.29-0.29,0.37-0.72,0.22-1.09C57.77,2.24,57.4,2,57,2L57,2z"/>
+</g>
+<g>
+	<path fill="#EFBD50" d="M53,45.5c-0.08,0-0.15-0.02-0.22-0.05c-0.17-0.08-0.28-0.26-0.28-0.45V7c0-0.13,0.05-0.26,0.15-0.35l4-4
+		c0.1-0.1,0.22-0.15,0.35-0.15c0.06,0,0.13,0.01,0.19,0.04C57.38,2.62,57.5,2.8,57.5,3v39c0,0.16-0.07,0.31-0.2,0.4l-4,3
+		C53.21,45.47,53.11,45.5,53,45.5z"/>
+	<path fill="#E5B12E" d="M57,3v39l-4,3V7L57,3 M57,2c-0.26,0-0.52,0.1-0.71,0.29l-4,4C52.11,6.48,52,6.73,52,7v38
+		c0,0.38,0.21,0.73,0.55,0.89C52.69,45.97,52.85,46,53,46c0.21,0,0.42-0.07,0.6-0.2l4-3c0.25-0.19,0.4-0.49,0.4-0.8V3
+		c0-0.4-0.24-0.77-0.62-0.92C57.26,2.02,57.13,2,57,2L57,2z"/>
+</g>
+<g>
+	<g>
+		<rect x="6.5" y="19.5" fill="#294A84" width="23" height="21"/>
+		<path fill="#172982" d="M29,20v20H7V20H29 M30,19h-1H7H6v1v20v1h1h22h1v-1V20V19L30,19z"/>
+	</g>
+	<g>
+		<rect x="8" y="21" fill="#6690CC" width="20" height="18"/>
+	</g>
+	<g>
+		<rect x="26.5" y="6.5" fill="#FFD45C" width="27" height="39"/>
+		<path fill="#E5B12E" d="M53,7v38H27V7H53 M54,6h-1H27h-1v1v38v1h1h26h1v-1V7V6L54,6z"/>
+	</g>
+	<g>
+		<rect x="29" y="9" fill="#FFE3A6" width="22" height="34"/>
+	</g>
+</g>
+<g>
+	<path fill="#666666" d="M27,28v19h-0.01c0,0.02,0.01,0.03,0.01,0.05c0,1.1-3.58,2-8,2s-8-0.9-8-2c0-0.02,0.01-0.03,0.01-0.05H11V28
+		H27 M27,27H11c-0.55,0-1,0.45-1,1v19c0,0.01,0,0.02,0,0.02c0,0.01,0,0.01,0,0.02c0,2.86,7.5,3,9,3s9-0.14,9-3c0-0.01,0-0.01,0-0.02
+		c0-0.01,0-0.02,0-0.02V28C28,27.45,27.55,27,27,27L27,27z"/>
+</g>
+<ellipse fill="#66CCCA" cx="19" cy="47" rx="8" ry="2"/>
+<rect x="11" y="28" fill="#66CCCA" width="16" height="19"/>
+<ellipse fill="#FCB11A" cx="19" cy="37" rx="8" ry="2"/>
+<rect x="11" y="28" fill="#FCB11A" width="16" height="9"/>
+<path fill="#E54545" d="M19.5,42h-1c-1.38,0-2.5-1.12-2.5-2.5v-1c0-1.37,1.12-2.5,2.5-2.5h1c1.38,0,2.5,1.12,2.5,2.5v1
+	C22,40.88,20.88,42,19.5,42z"/>
+<g>
+	
+		<radialGradient id="SVGID_1_" cx="19" cy="28" r="5.831" gradientTransform="matrix(1 0 0 0.25 0 21)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#F0F0F0"/>
+		<stop  offset="1" style="stop-color:#A0A0A0"/>
+	</radialGradient>
+	<ellipse fill="url(#SVGID_1_)" cx="19" cy="28" rx="8" ry="2"/>
+</g>
+<g>
+	<path fill="#666666" d="M19,26c4.42,0,8,0.9,8,2s-3.58,2-8,2s-8-0.9-8-2S14.58,26,19,26 M19,25c-1.5,0-9,0.14-9,3s7.5,3,9,3
+		s9-0.14,9-3S20.5,25,19,25L19,25z"/>
+</g>
+<g>
+	<g>
+		<path fill="#666666" d="M43,32.95v19h-0.01c0,0.02,0.01,0.03,0.01,0.05c0,1.1-3.58,2-8,2s-8-0.9-8-2c0-0.02,0.01-0.03,0.01-0.05
+			H27v-19H43 M43,31.95H27c-0.55,0-1,0.45-1,1v19c0,0.01,0,0.02,0,0.02c0,0.01,0,0.01,0,0.02c0,2.86,7.5,3,9,3s9-0.14,9-3
+			c0-0.01,0-0.01,0-0.02c0-0.01,0-0.02,0-0.02v-19C44,32.4,43.55,31.95,43,31.95L43,31.95z"/>
+	</g>
+</g>
+<ellipse fill="#0056BC" cx="35" cy="52" rx="8" ry="2"/>
+<rect x="27" y="33" fill="#0056BC" width="16" height="19"/>
+<ellipse fill="#2FA528" cx="35" cy="42.08" rx="8" ry="2"/>
+<rect x="27" y="33" fill="#2FA528" width="16" height="9"/>
+<path fill="#FF80E7" d="M35.5,47h-1c-1.37,0-2.5-1.12-2.5-2.5v-1c0-1.37,1.12-2.5,2.5-2.5h1c1.37,0,2.5,1.12,2.5,2.5v1
+	C38,45.88,36.88,47,35.5,47z"/>
+<g>
+	
+		<radialGradient id="SVGID_2_" cx="35" cy="33" r="5.831" gradientTransform="matrix(1 0 0 0.25 0 24.75)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#F0F0F0"/>
+		<stop  offset="1" style="stop-color:#A0A0A0"/>
+	</radialGradient>
+	<ellipse fill="url(#SVGID_2_)" cx="35" cy="33" rx="8" ry="2"/>
+</g>
+<g>
+	<g>
+		<path fill="#666666" d="M35,31c4.42,0,8,0.9,8,2s-3.58,2-8,2s-8-0.9-8-2S30.58,31,35,31 M35,30c-1.5,0-9,0.14-9,3s7.5,3,9,3
+			s9-0.14,9-3S36.5,30,35,30L35,30z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<path fill="#666666" d="M33,39.95v19h-0.01c0,0.02,0.01,0.03,0.01,0.05c0,1.1-3.58,2-8,2s-8-0.9-8-2c0-0.02,0.01-0.03,0.01-0.05
+			H17v-19H33 M33,38.95H17c-0.55,0-1,0.45-1,1v19c0,0.01,0,0.02,0,0.02c0,0.01,0,0.01,0,0.02c0,2.86,7.5,3,9,3s9-0.14,9-3
+			c0-0.01,0-0.01,0-0.02c0-0.01,0-0.02,0-0.02v-19C34,39.4,33.55,38.95,33,38.95L33,38.95z"/>
+	</g>
+</g>
+<ellipse fill="#F5F5F5" cx="25" cy="59" rx="8" ry="2"/>
+<rect x="17" y="40" fill="#F5F5F5" width="16" height="19"/>
+<ellipse fill="#C80028" cx="25" cy="49" rx="8" ry="2"/>
+<rect x="17" y="40" fill="#C80028" width="16" height="9"/>
+<path fill="#FFD35C" d="M25.5,54h-1c-1.38,0-2.5-1.12-2.5-2.5v-1c0-1.37,1.12-2.5,2.5-2.5h1c1.38,0,2.5,1.12,2.5,2.5v1
+	C28,52.88,26.88,54,25.5,54z"/>
+<g>
+	
+		<radialGradient id="SVGID_3_" cx="25" cy="40.0799" r="5.831" gradientTransform="matrix(1 0 0 0.25 0 30.0599)" gradientUnits="userSpaceOnUse">
+		<stop  offset="0" style="stop-color:#F0F0F0"/>
+		<stop  offset="1" style="stop-color:#A0A0A0"/>
+	</radialGradient>
+	<ellipse fill="url(#SVGID_3_)" cx="25" cy="40.08" rx="8" ry="2"/>
+</g>
+<g>
+	<g>
+		<path fill="#666666" d="M25,38c4.42,0,8,0.9,8,2s-3.58,2-8,2s-8-0.9-8-2S20.58,38,25,38 M25,37c-1.5,0-9,0.14-9,3s7.5,3,9,3
+			s9-0.14,9-3S26.5,37,25,37L25,37z"/>
+	</g>
+</g>
+<g>
+	<g>
+		<defs>
+			<ellipse id="SVGID_45_" cx="25" cy="40" rx="8" ry="2"/>
+		</defs>
+		<clipPath id="SVGID_4_">
+			<use xlink:href="#SVGID_45_"  overflow="visible"/>
+		</clipPath>
+		<rect x="17" y="38" clip-path="url(#SVGID_4_)" fill="#A0A0A0" width="16" height="4"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#A0A0A0" cx="25" cy="40" rx="5.83" ry="1.46"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#A1A1A1" cx="25" cy="40" rx="5.76" ry="1.44"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#A2A2A2" cx="25" cy="40" rx="5.69" ry="1.42"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#A3A3A3" cx="25" cy="40" rx="5.61" ry="1.4"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#A4A4A4" cx="25" cy="40" rx="5.54" ry="1.38"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#A5A5A5" cx="25" cy="40" rx="5.47" ry="1.37"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#A6A6A6" cx="25" cy="40" rx="5.39" ry="1.35"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#A7A7A7" cx="25" cy="40" rx="5.32" ry="1.33"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#A8A8A8" cx="25" cy="40" rx="5.25" ry="1.31"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#A9A9A9" cx="25" cy="40" rx="5.17" ry="1.29"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#AAAAAA" cx="25" cy="40" rx="5.1" ry="1.28"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#ABABAB" cx="25" cy="40" rx="5.03" ry="1.26"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#ACACAC" cx="25" cy="40" rx="4.96" ry="1.24"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#ADADAD" cx="25" cy="40" rx="4.88" ry="1.22"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#AEAEAE" cx="25" cy="40" rx="4.81" ry="1.2"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#AFAFAF" cx="25" cy="40" rx="4.74" ry="1.18"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#B0B0B0" cx="25" cy="40" rx="4.66" ry="1.17"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#B1B1B1" cx="25" cy="40" rx="4.59" ry="1.15"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#B2B2B2" cx="25" cy="40" rx="4.52" ry="1.13"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#B3B3B3" cx="25" cy="40" rx="4.45" ry="1.11"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#B4B4B4" cx="25" cy="40" rx="4.37" ry="1.09"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#B5B5B5" cx="25" cy="40" rx="4.3" ry="1.08"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#B6B6B6" cx="25" cy="40" rx="4.23" ry="1.06"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#B7B7B7" cx="25" cy="40" rx="4.15" ry="1.04"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#B8B8B8" cx="25" cy="40" rx="4.08" ry="1.02"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#B9B9B9" cx="25" cy="40" rx="4.01" ry="1"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#BABABA" cx="25" cy="40" rx="3.94" ry="0.98"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#BBBBBB" cx="25" cy="40" rx="3.86" ry="0.97"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#BCBCBC" cx="25" cy="40" rx="3.79" ry="0.95"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#BDBDBD" cx="25" cy="40" rx="3.72" ry="0.93"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#BEBEBE" cx="25" cy="40" rx="3.64" ry="0.91"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#BFBFBF" cx="25" cy="40" rx="3.57" ry="0.89"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#C0C0C0" cx="25" cy="40" rx="3.5" ry="0.87"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#C1C1C1" cx="25" cy="40" rx="3.43" ry="0.86"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#C2C2C2" cx="25" cy="40" rx="3.35" ry="0.84"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#C3C3C3" cx="25" cy="40" rx="3.28" ry="0.82"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#C4C4C4" cx="25" cy="40" rx="3.21" ry="0.8"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#C5C5C5" cx="25" cy="40" rx="3.13" ry="0.78"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#C6C6C6" cx="25" cy="40" rx="3.06" ry="0.77"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#C7C7C7" cx="25" cy="40" rx="2.99" ry="0.75"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#C8C8C8" cx="25" cy="40" rx="2.92" ry="0.73"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#C9C9C9" cx="25" cy="40" rx="2.84" ry="0.71"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#CACACA" cx="25" cy="40" rx="2.77" ry="0.69"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#CBCBCB" cx="25" cy="40" rx="2.7" ry="0.67"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#CCCCCC" cx="25" cy="40" rx="2.62" ry="0.66"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#CDCDCD" cx="25" cy="40" rx="2.55" ry="0.64"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#CECECE" cx="25" cy="40" rx="2.48" ry="0.62"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#CFCFCF" cx="25" cy="40" rx="2.41" ry="0.6"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#D0D0D0" cx="25" cy="40" rx="2.33" ry="0.58"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#D2D2D2" cx="25" cy="40" rx="2.26" ry="0.56"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#D3D3D3" cx="25" cy="40" rx="2.19" ry="0.55"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#D4D4D4" cx="25" cy="40" rx="2.11" ry="0.53"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#D5D5D5" cx="25" cy="40" rx="2.04" ry="0.51"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#D6D6D6" cx="25" cy="40" rx="1.97" ry="0.49"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#D7D7D7" cx="25" cy="40" rx="1.9" ry="0.47"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#D8D8D8" cx="25" cy="40" rx="1.82" ry="0.46"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#D9D9D9" cx="25" cy="40" rx="1.75" ry="0.44"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#DADADA" cx="25" cy="40" rx="1.68" ry="0.42"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#DBDBDB" cx="25" cy="40" rx="1.6" ry="0.4"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#DCDCDC" cx="25" cy="40" rx="1.53" ry="0.38"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#DDDDDD" cx="25" cy="40" rx="1.46" ry="0.36"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#DEDEDE" cx="25" cy="40" rx="1.38" ry="0.35"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#DFDFDF" cx="25" cy="40" rx="1.31" ry="0.33"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#E0E0E0" cx="25" cy="40" rx="1.24" ry="0.31"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#E1E1E1" cx="25" cy="40" rx="1.17" ry="0.29"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#E2E2E2" cx="25" cy="40" rx="1.09" ry="0.27"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#E3E3E3" cx="25" cy="40" rx="1.02" ry="0.26"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#E4E4E4" cx="25" cy="40" rx="0.95" ry="0.24"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#E5E5E5" cx="25" cy="40" rx="0.87" ry="0.22"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#E6E6E6" cx="25" cy="40" rx="0.8" ry="0.2"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#E7E7E7" cx="25" cy="40" rx="0.73" ry="0.18"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#E8E8E8" cx="25" cy="40" rx="0.66" ry="0.16"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#E9E9E9" cx="25" cy="40" rx="0.58" ry="0.15"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#EAEAEA" cx="25" cy="40" rx="0.51" ry="0.13"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#EBEBEB" cx="25" cy="40" rx="0.44" ry="0.11"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#ECECEC" cx="25" cy="40" rx="0.36" ry="0.09"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#EDEDED" cx="25" cy="40" rx="0.29" ry="0.07"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#EEEEEE" cx="25" cy="40" rx="0.22" ry="0.05"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#EFEFEF" cx="25" cy="40" rx="0.15" ry="0.04"/>
+		<ellipse clip-path="url(#SVGID_4_)" fill="#F0F0F0" cx="25" cy="40" rx="0.07" ry="0.02"/>
+	</g>
+</g>
+</svg>
