@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<g>
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1.251" y1="33.5776" x2="23.5496" y2="33.5776">
+			<stop  offset="0" style="stop-color:#FAFAFA"/>
+			<stop  offset="1" style="stop-color:#DCDCDC"/>
+		</linearGradient>
+		<path fill="url(#SVGID_1_)" d="M6.49,58.78c-0.83,0-1.49-0.09-1.87-0.15l0.71-3.1l-2.67-2.27l2.83-4.33l-3.5-3l3.43-5.01
+			l-3.52-2.76l2.81-4.79l-3.46-3.79l4.05-4.71l-3.24-4.82c8.25-1.32,16.5-10.41,17.61-11.67h3.87c0.02,3.31,0.05,27.87-4.4,40
+			C15.83,57.43,9.79,58.78,6.49,58.78L6.49,58.78z"/>
+		<path fill="#828282" d="M23.17,8.75c0.02,4.45-0.09,27.8-4.37,39.49c-3.24,8.84-9.11,10.16-12.31,10.16
+			c-0.57,0-1.05-0.04-1.41-0.09l0.57-2.48l0.1-0.45l-0.35-0.3l-2.25-1.91l2.47-3.78l0.36-0.55l-0.5-0.43L2.5,45.87l3.04-4.44
+			l0.4-0.58l-0.55-0.43l-2.99-2.35l2.5-4.27l0.28-0.48L4.8,32.91l-3.05-3.34l3.65-4.25l0.37-0.43l-0.32-0.47l-2.76-4.11
+			c7.95-1.61,15.7-9.93,17.15-11.56H23.17 M23.92,8H19.5c0,0-9.25,10.75-18.09,11.75l3.42,5.08l-4.08,4.75l3.5,3.83l-2.83,4.83
+			L4.92,41L1.5,46L5,49l-2.83,4.33l2.75,2.33l-0.75,3.25c0,0,0.91,0.24,2.32,0.24c3.38,0,9.61-1.37,13.01-10.66
+			C24.33,35.33,23.92,8,23.92,8L23.92,8z"/>
+	</g>
+	<g>
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="18.375" y1="36.5" x2="61.625" y2="36.5">
+			<stop  offset="0" style="stop-color:#DCDCDC"/>
+			<stop  offset="0.5" style="stop-color:#FAFAFA"/>
+			<stop  offset="1" style="stop-color:#DCDCDC"/>
+		</linearGradient>
+		<path fill="url(#SVGID_2_)" d="M40,60.62c-11.92,0-21.62-4.77-21.62-10.62V12.38h43.25V50C61.62,55.86,51.92,60.62,40,60.62z"/>
+		<path fill="#828282" d="M61.25,12.75V50c0,5.56-9.73,10.25-21.25,10.25S18.75,55.56,18.75,50V12.75H61.25 M62,12H18v38
+			c0,6.08,9.85,11,22,11s22-4.92,22-11V12L62,12z"/>
+	</g>
+	<g>
+		<path fill="#FAFAFA" d="M40,22.62c-11.92,0-21.62-4.77-21.62-10.62S28.08,1.38,40,1.38S61.62,6.14,61.62,12S51.92,22.62,40,22.62z
+			"/>
+		<path fill="#828282" d="M40,1.75c11.52,0,21.25,4.69,21.25,10.25S51.52,22.25,40,22.25S18.75,17.56,18.75,12S28.48,1.75,40,1.75
+			 M40,1C27.85,1,18,5.92,18,12s9.85,11,22,11s22-4.92,22-11S52.15,1,40,1L40,1z"/>
+	</g>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="40" y1="8" x2="40" y2="16">
+		<stop  offset="0" style="stop-color:#DCDCDC"/>
+		<stop  offset="1" style="stop-color:#646464"/>
+	</linearGradient>
+	<ellipse fill="url(#SVGID_3_)" stroke="#828282" stroke-width="0.75" stroke-miterlimit="10" cx="40" cy="12" rx="8" ry="4"/>
+	<g>
+		<g>
+			<line fill="none" stroke="#AAAAAA" stroke-miterlimit="10" x1="31" y1="22" x2="31" y2="22.5"/>
+			
+				<line fill="none" stroke="#AAAAAA" stroke-miterlimit="10" stroke-dasharray="0.9737,1.9474" x1="31" y1="24.45" x2="31" y2="58.53"/>
+			<line fill="none" stroke="#AAAAAA" stroke-miterlimit="10" x1="31" y1="59.5" x2="31" y2="60"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<line fill="none" stroke="#AAAAAA" stroke-miterlimit="10" x1="58" y1="18" x2="58" y2="18.5"/>
+			
+				<line fill="none" stroke="#AAAAAA" stroke-miterlimit="10" stroke-dasharray="0.9737,1.9474" x1="58" y1="20.45" x2="58" y2="54.53"/>
+			<line fill="none" stroke="#AAAAAA" stroke-miterlimit="10" x1="58" y1="55.5" x2="58" y2="56"/>
+		</g>
+	</g>
+</g>
+</svg>
