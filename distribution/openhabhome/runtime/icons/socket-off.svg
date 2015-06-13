@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="32" y1="57" x2="32" y2="7">
+		<stop  offset="0" style="stop-color:#CAC7B9"/>
+		<stop  offset="1" style="stop-color:#F8F5E5"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" stroke="#7C715E" stroke-width="0.25" stroke-miterlimit="10" d="M16,7h32c4.97,0,9,4.03,9,9v32
+		c0,4.97-4.03,9-9,9H16c-4.97,0-9-4.03-9-9V16C7,11.03,11.03,7,16,7z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="32" y1="15" x2="32" y2="49">
+		<stop  offset="0" style="stop-color:#4E493F"/>
+		<stop  offset="0.7677" style="stop-color:#3B3732"/>
+	</linearGradient>
+	<path fill="url(#SVGID_2_)" d="M44,49H20c-2.76,0-5-2.24-5-5V20c0-2.76,2.24-5,5-5h24c2.76,0,5,2.24,5,5v24
+		C49,46.76,46.76,49,44,49z"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="32" y1="48" x2="32" y2="16">
+		<stop  offset="0" style="stop-color:#CAC7B9"/>
+		<stop  offset="1" style="stop-color:#F8F5E5"/>
+	</linearGradient>
+	<path fill="url(#SVGID_3_)" stroke="#7C715E" stroke-width="0.25" stroke-miterlimit="10" d="M21,16h22c2.76,0,5,2.24,5,5v22
+		c0,2.76-2.24,5-5,5H21c-2.76,0-5-2.24-5-5V21C16,18.24,18.24,16,21,16z"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="32" y1="46" x2="32" y2="18">
+		<stop  offset="0" style="stop-color:#F8F5E5"/>
+		<stop  offset="1" style="stop-color:#CAC7B9"/>
+	</linearGradient>
+	<circle fill="url(#SVGID_4_)" cx="32" cy="32" r="14"/>
+	<circle fill="#1A171B" cx="26.91" cy="32" r="1.91"/>
+	<circle fill="#1A171B" cx="37.09" cy="32" r="1.91"/>
+	<rect x="31.36" y="19.27" fill="#8C8C8C" width="1.27" height="2.55"/>
+	<rect x="31.36" y="42.18" fill="#8C8C8C" width="1.27" height="2.55"/>
+	<g>
+		<defs>
+			<circle id="SVGID_18_" cx="32" cy="32" r="14"/>
+		</defs>
+		<clipPath id="SVGID_5_">
+			<use xlink:href="#SVGID_18_"  overflow="visible"/>
+		</clipPath>
+		<g clip-path="url(#SVGID_5_)">
+			<g>
+				<rect x="17.23" y="33.14" fill="#CCBEAE" width="4.09" height="13.64"/>
+				<path fill="#A59988" d="M20.82,33.64v12.64h-3.09V33.64H20.82 M21.82,32.64h-5.09v14.64h5.09V32.64L21.82,32.64z"/>
+			</g>
+			<g>
+				<rect x="17.23" y="17.23" fill="#CCBEAE" width="4.09" height="13.64"/>
+				<path fill="#A59988" d="M20.82,17.73v12.64h-3.09V17.73H20.82 M21.82,16.73h-5.09v14.64h5.09V16.73L21.82,16.73z"/>
+			</g>
+		</g>
+		<g clip-path="url(#SVGID_5_)">
+			<g>
+				<rect x="42.68" y="17.23" fill="#CCBEAE" width="4.09" height="13.64"/>
+				<path fill="#A59988" d="M46.27,17.73v12.64h-3.09V17.73H46.27 M47.27,16.73h-5.09v14.64h5.09V16.73L47.27,16.73z"/>
+			</g>
+			<g>
+				<rect x="42.68" y="33.14" fill="#CCBEAE" width="4.09" height="13.64"/>
+				<path fill="#A59988" d="M46.27,33.64v12.64h-3.09V33.64H46.27 M47.27,32.64h-5.09v14.64h5.09V32.64L47.27,32.64z"/>
+			</g>
+		</g>
+	</g>
+	<circle fill="none" stroke="#5E5549" stroke-width="0.5" stroke-miterlimit="10" cx="32" cy="32" r="14"/>
+	<circle fill="#FF0000" cx="44.5" cy="19.5" r="1.5"/>
+</g>
+</svg>
