@@ -1,22 +1,7 @@
 #!/bin/sh
 #
-#  The qlmanage command only works on OS X, on Linux you'll have to rewrite it for another utility that can convert .svg files to .png.
+#  Create needed copies of deprecated and duplicate files.
 #
-
-
-# Convert .svg files to .png.
-
-ls | grep -E '.png.png$|.svg.png$' | xargs rm
-
-ls -all | grep '.svg$' | grep -Ev 'none.svg$| -> ' | awk '{print $NF}' | xargs qlmanage -t -o .
-
-for file in *.svg.png
-do
-  mv $file `echo $file | sed s/.svg//`
-done
-
-
-# Create symlinks to deprecated or duplicate files.
 
 rm -f boy0.png && cp -f boy_3.png boy0.png
 rm -f boy0.svg && cp -f boy_3.svg boy0.svg

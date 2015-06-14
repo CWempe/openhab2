@@ -1,0 +1,17 @@
+#!/bin/sh
+#
+#  Minify .png files using imageoptim.
+#
+
+if hash imageoptim 2>/dev/null; then
+
+  for file in *.png; do
+    echo $file | imageoptim
+  done
+
+else
+
+  echo "Please install 'imageoptim-cli' using npm:"
+  echo "npm install -g imageoptim-cli"
+
+fi
