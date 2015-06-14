@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<g>
+	<polygon fill="#ECECED" points="47.5,58.5 47.5,7.5 16.5,7.5 16.5,58.5 12.5,58.5 12.5,3.5 51.5,3.5 51.5,58.5 	"/>
+	<path fill="#9B9C9E" d="M51,4v54h-3V8V7h-1H17h-1v1v50h-3V4H51 M52,3H12v56h5V8h30v51h5V3L52,3z"/>
+</g>
+<g>
+	<rect x="17.5" y="8.5" fill="#646464" width="29" height="50"/>
+	<path fill="#282828" d="M46,9v49H18V9H46 M47,8H17v51h30V8L47,8z"/>
+</g>
+<ellipse fill="#DCDCF0" cx="43.5" cy="34" rx="0.5" ry="1"/>
+<g>
+	<g>
+		<path fill="#282828" d="M36,13v41h-8V13H36 M37,12h-1h-8h-1v1v41v1h1h8h1v-1V13V12L37,12z"/>
+	</g>
+</g>
+<g>
+	<rect x="28.5" y="13.5" fill="#D9F1FF" width="7" height="40"/>
+	<path fill="#7AADCC" d="M35,14v39h-6V14H35 M36,13h-8v41h8V13L36,13z"/>
+</g>
+<g>
+	<rect x="40.5" y="15.5" fill="#DCDCF0" width="2" height="36"/>
+	<path fill="#595959" d="M42,16v35h-1V16H42 M43,15h-1h-1h-1v1v35v1h1h1h1v-1V16V15L43,15z"/>
+</g>
+</svg>
