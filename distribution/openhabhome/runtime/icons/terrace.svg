@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path fill="#F9AA43" d="M20.92,50.47v-1H7.37v1.51h11.44C19.49,50.75,20.22,50.59,20.92,50.47z"/>
+<g>
+	<rect x="17.5" y="40.5" fill="#FFFFFF" width="29" height="2"/>
+	<path fill="#CCCCCC" d="M46,41v1H18v-1H46 M47,40H17v3h30V40L47,40z"/>
+</g>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="31" y1="51" x2="33" y2="51">
+	<stop  offset="0" style="stop-color:#82828C"/>
+	<stop  offset="0.5" style="stop-color:#CCD3E7"/>
+	<stop  offset="1" style="stop-color:#82828C"/>
+</linearGradient>
+<rect x="31" y="43" fill="url(#SVGID_1_)" width="2" height="16"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="31" y1="21.9202" x2="33" y2="21.9202">
+	<stop  offset="0" style="stop-color:#82828C"/>
+	<stop  offset="0.5" style="stop-color:#CCD3E7"/>
+	<stop  offset="1" style="stop-color:#82828C"/>
+</linearGradient>
+<path fill="url(#SVGID_2_)" d="M33,40h-2V4.84c0-0.55,0.45-1,1-1h0c0.55,0,1,0.45,1,1V40z"/>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="24" y1="59.5" x2="40" y2="59.5">
+	<stop  offset="0" style="stop-color:#82828C"/>
+	<stop  offset="0.5" style="stop-color:#CCD3E7"/>
+	<stop  offset="1" style="stop-color:#82828C"/>
+</linearGradient>
+<rect x="24" y="59" fill="url(#SVGID_3_)" width="16" height="1"/>
+<g>
+	<path fill="#FFD45A" d="M1,19.42c-0.24,0-0.44-0.17-0.49-0.4s0.08-0.47,0.3-0.56l31-12.92C31.87,5.51,31.93,5.5,32,5.5
+		s0.13,0.01,0.19,0.04l31,13c0.22,0.09,0.34,0.33,0.3,0.56s-0.25,0.4-0.49,0.4L1,19.42z"/>
+	<path fill="#F9AA43" d="M32,6l31,13L1,18.92L32,6 M32,5c-0.13,0-0.26,0.03-0.38,0.08l-31,12.92c-0.44,0.18-0.69,0.65-0.6,1.12
+		c0.09,0.47,0.5,0.8,0.98,0.8L63,20c0,0,0,0,0,0c0.48,0,0.89-0.34,0.98-0.8c0.09-0.47-0.15-0.94-0.59-1.12l-31-13
+		C32.26,5.03,32.13,5,32,5L32,5z"/>
+</g>
+<path fill="#F9AA43" d="M2.69,31.5c0,0,0.97,0.06,5.87,18.92v1.49l-4.14-7.73C4.42,44.17,2.32,36.83,2.69,31.5z"/>
+<path fill="none" stroke="#663014" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M3.66,47.03
+	c0,0,12.85-6.4,18.12,3.29c-3.58,0.28-6.07,1.79-10.16,4.94S1.5,59.5,1.5,59.5"/>
+<path fill="none" stroke="#663014" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M2.39,31.88
+	c0,0,0.42,25.93,19.39,27.62"/>
+<path fill="#F9AA43" d="M43.08,50.47v-1h13.55v1.51H45.19C44.51,50.75,43.78,50.59,43.08,50.47z"/>
+<path fill="#F9AA43" d="M61.31,31.5c0,0-0.97,0.06-5.87,18.92v1.49l4.14-7.73C59.58,44.17,61.68,36.83,61.31,31.5z"/>
+<path fill="none" stroke="#663014" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M60.34,47.03
+	c0,0-12.85-6.4-18.12,3.29c3.58,0.28,6.07,1.79,10.16,4.94S62.5,59.5,62.5,59.5"/>
+<path fill="none" stroke="#663014" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="M61.61,31.88
+	c0,0-0.42,25.93-19.39,27.62"/>
+<polygon opacity="0.5" fill="#F9AA43" points="32,5 38,19 50,19 "/>
+<polygon opacity="0.5" fill="#F9AA43" points="14,19 26,19 32,5 "/>
+</svg>
