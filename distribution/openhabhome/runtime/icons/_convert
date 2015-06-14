@@ -1,0 +1,86 @@
+#!/bin/sh
+#
+#  The qlmanage command only works on OS X, on Linux you'll have to rewrite it for another utility that can convert .svg files to .png.
+#
+
+
+# Convert .svg files to .png.
+
+ls | grep '.png.png$' | xargs rm
+
+ls -all | grep '.svg$' | grep -Ev 'none.svg$| -> ' | awk '{print $NF}' | xargs qlmanage -t -o .
+
+for file in *.svg.png
+do
+  mv $file `echo $file | sed s/.svg//`
+done
+
+
+# Create symlinks to deprecated or duplicate files.
+
+ln -sf boy_3.png boy0.png
+ln -sf boy_3.svg boy0.svg
+ln -sf boy_2.png boy1.png
+ln -sf boy_2.svg boy1.svg
+ln -sf boy_1.png boy2.png
+ln -sf boy_1.svg boy2.svg
+ln -sf boy_4.png boy3.png
+ln -sf boy_4.svg boy3.svg
+ln -sf boy_3.png boy4.png
+ln -sf boy_3.svg boy4.svg
+ln -sf boy_4.png boy5.png
+ln -sf boy_4.svg boy5.svg
+ln -sf boy_2.png boy6.png
+ln -sf boy_2.svg boy6.svg
+ln -sf boy_2.png boy7.png
+ln -sf boy_2.svg boy7.svg
+
+ln -sf girl_1.png child1.png
+ln -sf girl_1.svg child1.svg
+ln -sf girl_2.png child2.png
+ln -sf girl_2.svg child2.svg
+
+ln -sf child1.png child1-off.png
+ln -sf child1.svg child1-off.svg
+ln -sf child2.png child2-off.png
+ln -sf child2.svg child2-off.svg
+
+ln -sf garagedoor-70.png garagedoor-ajar.png
+ln -sf garagedoor-70.svg garagedoor-ajar.svg
+ln -sf garagedoor-100.png garagedoor-closed.png
+ln -sf garagedoor-100.svg garagedoor-closed.svg
+ln -sf garagedoor-0.png garagedoor-open.png
+ln -sf garagedoor-0.svg garagedoor-open.svg
+ln -sf garagedoor-ajar.png garagedoor.png
+ln -sf garagedoor-ajar.svg garagedoor.svg
+
+ln -sf house.png group.png
+ln -sf house.svg group.svg
+ln -sf house.png house-off.png
+ln -sf house.svg house-off.svg
+
+ln -sf heating-0.png heating-off.png
+ln -sf heating-0.svg heating-off.svg
+ln -sf heating-100.png heating-on.png
+ln -sf heating-100.svg heating-on.svg
+ln -sf heating-on.png heating.png
+ln -sf heating-on.svg heating.svg
+
+ln -sf slider-0.png light-off.png
+ln -sf slider-0.svg light-off.svg
+ln -sf slider-100.png light-on.png
+ln -sf slider-100.svg light-on.svg
+ln -sf slider-100.png slider.png
+ln -sf slider-100.svg slider.svg
+
+ln -sf lock-closed.png lock.png
+ln -sf lock-closed.svg lock.svg
+
+ln -sf rollershutter-70.png rollershutter.png
+ln -sf rollershutter-70.svg rollershutter.svg
+
+ln -sf shield-1.png shield-2.png
+ln -sf shield-1.svg shield-2.svg
+
+ln -sf wardrobe.png wardrobe2.png
+ln -sf wardrobe.svg wardrobe2.svg
