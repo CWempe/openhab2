@@ -54,10 +54,10 @@ rm -f garagedoor-open.svg && cp -f garagedoor-0.svg garagedoor-open.svg
 rm -f garagedoor.png && cp -f garagedoor-ajar.png garagedoor.png
 rm -f garagedoor.svg && cp -f garagedoor-ajar.svg garagedoor.svg
 
-rm -f garden2.png && cp -f garden.svg garden2.png
+rm -f garden2.png && cp -f garden.png garden2.png
 rm -f garden2.svg && cp -f garden.svg garden2.svg
 
-rm -f garden3.png && cp -f garden.svg garden3.png
+rm -f garden3.png && cp -f garden.png garden3.png
 rm -f garden3.svg && cp -f garden.svg garden3.svg
 
 rm -f group.png && cp -f house.png group.png
