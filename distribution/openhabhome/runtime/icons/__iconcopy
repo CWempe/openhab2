@@ -76,5 +76,8 @@ rm -f rollershutter.svg && cp -f rollershutter-70.svg rollershutter.svg
 rm -f shield-2.png && cp -f shield-1.png shield-2.png
 rm -f shield-2.svg && cp -f shield-1.svg shield-2.svg
 
+rm -f text.png && cp -f none.png text.png
+rm -f text.svg && cp -f none.svg text.svg
+
 rm -f wardrobe2.png && cp -f wardrobe.png wardrobe2.png
 rm -f wardrobe2.svg && cp -f wardrobe.svg wardrobe2.svg
