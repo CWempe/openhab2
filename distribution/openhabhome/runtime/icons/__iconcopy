@@ -67,6 +67,9 @@ rm -f slider.svg && cp -f slider-100.svg slider.svg
 rm -f lock.png && cp -f lock-closed.png lock.png
 rm -f lock.svg && cp -f lock-closed.svg lock.svg
 
+rm -f parents.png && cp -f parents_3_3.png parents.png
+rm -f parents.svg && cp -f parents_3_3.svg parents.svg
+
 rm -f rollershutter.png && cp -f rollershutter-70.png rollershutter.png
 rm -f rollershutter.svg && cp -f rollershutter-70.svg rollershutter.svg
 

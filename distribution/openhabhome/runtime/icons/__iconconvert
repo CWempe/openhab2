@@ -2,23 +2,35 @@
 #
 #  Convert .svg files to .png using svgexport.
 #
+#  Pass an argument to only convert files starting with given string.
+#
 
-if hash qlmanage 2>/dev/null; then
+if hash svgexport; then
 
-  ls | grep '.svg$' | grep -Ev 'none.svg$' | awk '{print $NF}' | xargs qlmanage -t -o .
-  ls | grep -E '.png.png$|.svg.png$' | xargs rm
-
-elif hash svgexport 2>/dev/null; then
-
-  for file in *.svg; do
+  for file in $1*.svg; do
     if [[ $file != 'none'* ]]; then
       svgexport $file `echo $file | sed s/.svg/.png/`
     fi  
   done
 
+# elif hash qlmanage; then
+# 	
+#   ls | grep -E '.png.png$|.svg.png$' | xargs rm
+# 
+#   ls | grep '.svg$' | grep -Ev 'none.svg$' | awk '{print $NF}' | xargs qlmanage -t -o .
+#   
+#   for file in *.svg.png
+#   do
+#     mv $file `echo $file | sed s/.svg//`
+#   done
+
+elif hash npm; then
+
+    npm install -g svgexport
+
 else
 
-  echo "Please install 'svgexport' using npm:"
-  echo "npm install -g svgexport"
+    echo "Please install 'svgexport' using npm:"
+    echo "npm install -g svgexport"
 
 fi
